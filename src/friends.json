@@ -1,0 +1,53 @@
+[{
+    "name": "cat",
+    "image": "./clicky/clicky/animal1.jpg"
+  },
+  {
+
+    "name": "polar bear",
+    "image": ".clicky/animal2.jpg"
+
+  },
+  {
+
+    "name": "hamion",
+    "image": "animal3.jpg"
+
+  },
+  {
+
+    "name": "cuddlie bear",
+    "image": "animal4.jpg"
+
+  },
+  {
+
+    "name": "squrrel",
+    "image": "animal5.jpg"
+
+  },
+  {
+
+    "name": "PUPPIE!",
+    "image": "animal6.jpg"
+
+  },
+  {
+
+    "name": "Giraffe",
+    "image": "animal7.jpg"
+
+  },
+  {
+
+    "name": "Toucan",
+    "image": "animal8.jpg"
+
+  },
+  {
+
+    "name": "Seaturtle",
+    "image": "animal9.jpg"
+
+  }
+]
